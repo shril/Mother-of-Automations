@@ -7,7 +7,7 @@
  
  2. Once you are done with all the required changes in your project, create a pull request for that branch. **Do not push to master**
  
- 3. Do ***NOT** merge any branch with any other branch. Always use *git rebase*.
+ 3. Do ***NOT*** merge any branch with any other branch. Always use *git rebase*.
     Say you are on branch *jibin-temp* which you have created 10 days back. Now till date there were some other pushes in master branch due to which your branch has diverted from master. To incoorporate the master branch code in your branch, do the following in your local repository.
     
     ```shell
